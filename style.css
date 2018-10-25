@@ -1,0 +1,26 @@
+body {
+	background-color: #eee;
+	font-family: "Arial", sans-serif;
+	margin: 0;
+}
+main.container {
+	background-color: white;
+	margin: auto;
+	max-width: 600px;
+	height: 100%;
+	padding-top: 80px;
+	padding-left: 40px;
+	padding-right: 40px;
+}
+.content {
+	margin-bottom: 40px;
+}
+#my-list {
+	color: rebeccapurple;
+}
+.form-item label {
+    color: royalblue;
+}
+li:first-child {
+    color: red
+}
